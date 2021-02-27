@@ -179,22 +179,13 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 
 .h-3 {
-  top: 41.5%;
-  left: 92.5%;
-  transform: rotate(90deg);
-}
-.h-3 span{
-  transform: rotate(-90deg);
-  left: -5px;
+  top: 43.8%;
+  left: 92%;
 }
 @media (max-width:520px){
   .h-3 {
-    top: 42.8%;
-    left: 93%;
-  }
-  .h-3 span{
-    transform: rotate(-90deg);
-    left: -2px;
+    top: 44.5%;
+    left: 92.5%;
   }
 }
 
@@ -258,14 +249,13 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 
 .h-9 {
-  top: 46.5%;
-  left: 6%;
-  transform: rotate(-90deg);
+  top: 44.5%;
+  left: 3%;
 }
 @media (max-width:520px){
   .h-9 {
-    top: 46.9%;
-    left: 5.8%;
+    top: 44.5%;
+    left: 3%;
   }
 }
 
