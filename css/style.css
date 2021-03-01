@@ -46,9 +46,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
   width: 250px;
   height: 250px;
   border-radius: 50%;
-  background: url("../img/FRIENDS.jpg") center / cover no-repeat;
-  box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.719),
-              inset 0px 0px 5px 5px rgba(0, 0, 0, 0.719);
+  background: url("../IMG_20191222_190853.jpg") center / cover no-repeat;
+  box-shadow: inset 0px 0px 10px 5px rgba(0, 0, 0, 0.719);
   display: flex;
   justify-content:center;align-items: center;
 }
@@ -180,12 +179,12 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 
 .h-3 {
   top: 43.8%;
-  left: 92%;
+  left: 91%;
 }
 @media (max-width:520px){
   .h-3 {
     top: 44.5%;
-    left: 92.5%;
+    left: 91.5%;
   }
 }
 
@@ -214,12 +213,12 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 }
 
 .h-6 {
-  top: 87.8%;
+  top: 87%;
   left: 47%;
 }
 @media (max-width:520px){
   .h-6 {
-    top: 88.8%;
+    top: 88%;
     left: 47.5%;
   }
 }
